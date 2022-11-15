@@ -21,8 +21,8 @@
 
 
 #big_picture img {
-	width: 320px;
-	height: 240px;
+	width: 400px;
+	background-size: cover;
 	transform: rotate(90deg);
 	margin: 0 auto;
 }
